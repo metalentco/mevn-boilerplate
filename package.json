@@ -48,12 +48,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/UncleRemus/mevn-boilerplate.git"
+    "url": "git+https://github.com/metalentco/mevn-boilerplate.git"
   },
-  "author": "Ron McCranie <@UncleRemus>",
+  "author": "metalentco",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/UncleRemus/mevn-boilerplate/issues"
+    "url": "https://github.com/metalentco/mevn-boilerplate/issues"
   },
-  "homepage": "https://github.com/UncleRemus/mevn-boilerplate#readme"
+  "homepage": "https://github.com/metalentco/mevn-boilerplate#readme"
 }
