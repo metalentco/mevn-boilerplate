@@ -52,8 +52,5 @@
   },
   "author": "metalentco",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/metalentco/mevn-boilerplate/issues"
-  },
   "homepage": "https://github.com/metalentco/mevn-boilerplate#readme"
 }
